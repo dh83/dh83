@@ -1,11 +1,14 @@
 Здравствуй, меня зовут Счастливый Дмитрий. 
 
-Занимаюсь анализом данных. 
+Люблю разбираться в причинах сбоев и аномалий, находить корреляции и точки роста, структурировать и визуализирвать данные. 
+
+Надеюсь оцените по достоинству проекты представленные ниже. Старался раскрыть интересные моменты в данных, но не перегружать малополезной информацией.
+Буду рад обратной связи.
 
 --- 
 
 Использую следующий стек:  
-SQL,  Clickhouse, PostgreSQL, Redash, Tabix, Metabase, pgAdmin,  
+SQL, Clickhouse, PostgreSQL, Redash, Tabix, Metabase, pgAdmin,  
 Python, Pandas, Numpy, Seaborn, Matplotlib, Scipy, Pingouin, Request,   
 Jupyter Notebook, Apache Airflow, Git, GitHub, GitLab, MS Excel,   
 Tableau, Power BI, Статистический анализ, A/B-тестирование,   
